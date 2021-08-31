@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "type": "GitHub资源",
+    "type": "BTC资源",
     "sort": 1,
-    "description": "GitHub资源",
+    "description": "BTC资源",
     "items": [
       {
         "id": 1,
-        "url": "http://www.cnblogs.com/EasonJim/p/5816525.html",
+        "url": "https://btctom.com/options/big/btc",
         "target": "_blank",
-        "name": "GitHub项目大全",
-        "description": "GitHub项目大全",
+        "name": "期权大单监控",
+        "description": "期权大单监控",
         "sort": 1
 		},
       {
         "id": 2,
-        "url": "https://www.deepin.org/",
+        "url": "https://www.qkl123.com/data/main_funds/btc",
         "target": "_blank",
-        "name": "深度Linux",
-        "description": "深度Linux",
+        "name": "BTC主力散户资金",
+        "description": "BTC主力散户资金",
         "sort": 2
       },
       {
         "id": 3,
-        "url": "https://bbs.deepin.org/",
+        "url": "http://www.mnstkj.net/currencies/BTC/1.html",
         "target": "_blank",
-        "name": "深度Linux社区",
-        "description": "深度Linux社区",
+        "name": "BTC全网资金",
+        "description": "BTC全网资金",
         "sort": 3
       },
       {
         "id": 4,
-        "url": "http://tinylab.org/",
+        "url": "https://www.blockchaincenter.net/altcoin-season-index/",
         "target": "_blank",
-        "name": "泰晓科技（Linux内核调试实验室）",
-        "description": "泰晓科技（Linux内核调试实验室）",
+        "name": "山寨币指数",
+        "description": "山寨币指数",
         "sort": 4
       },
       {
         "id": 5,
-        "url": "https://github.com/tinyclub",
+        "url": "https://www.blockchaincenter.net/bitcoin-rainbow-chart/",
         "target": "_blank",
-        "name": "泰晓科技GitHub（Linux内核调试实验室）",
-        "description": "泰晓科技GitHub（Linux内核调试实验室）",
+        "name": "BTC彩虹图",
+        "description": "BTC彩虹图",
         "sort": 5
       },
       {
         "id": 6,
-        "url": "http://www.ubuntukylin.com/",
+        "url": "https://www.abuquant.com/report/abu_context/output_coin_day_ln/report/BTC/pc.html",
         "target": "_blank",
-        "name": "优麒麟（Ubuntu变种）",
-        "description": "优麒麟（Ubuntu变种）",
+        "name": "BTC量化分析",
+        "description": "BTC量化分析",
         "sort": 6
       }
     ]
