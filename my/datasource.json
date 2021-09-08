@@ -63,19 +63,35 @@
       },
       {
         "id": 8,
+        "url": "https://www.qkl123.com/data/marketvalue-increase/btc",
+        "target": "_blank",
+        "name": "江卓尔60日累计市值涨幅",
+        "description": "江卓尔60日累计市值涨幅",
+        "sort": 8
+      },
+	  {
+        "id": 9,
+        "url": "https://ahr999.com/",
+        "target": "_blank",
+        "name": "囤币指数",
+        "description": "囤币指数",
+        "sort": 9
+      },
+	  {
+        "id": 10,
         "url": "https://www.qkl123.com/data/ma730/btc",
         "target": "_blank",
         "name": "均线乘数顶底指标",
         "description": "均线乘数顶底指标",
-        "sort": 8
+        "sort": 10
       },
       {
-        "id": 9,
+        "id": 11,
         "url": "https://www.paxos.com/zh/",
         "target": "_blank",
         "name": "PAXOS国际汇款",
         "description": "PAXOS国际汇款",
-        "sort": 9
+        "sort": 11
       }
     ]
   },
