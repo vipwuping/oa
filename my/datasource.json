@@ -85,13 +85,21 @@
         "description": "均线乘数顶底指标",
         "sort": 10
       },
-      {
+	  {
         "id": 11,
+        "url": "https://debank.com/",
+        "target": "_blank",
+        "name": "debank链上资产",
+        "description": "debank链上资产",
+        "sort": 11
+      },
+      {
+        "id": 12,
         "url": "https://www.paxos.com/zh/",
         "target": "_blank",
         "name": "PAXOS国际汇款",
         "description": "PAXOS国际汇款",
-        "sort": 11
+        "sort": 12
       }
     ]
   },
